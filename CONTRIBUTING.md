@@ -1,5 +1,3 @@
-This is a test file.
-
 # Contributing to Kendo UI Core
 
 ## Before You Start
